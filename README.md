@@ -12,7 +12,7 @@
 
 ## 📲 آخرین نسخه
 
-**Moghimi V2Ray 2.0.8 · Beta 87 · ARM64**  
+**Moghimi  V2Ray 2.0.8 · Beta 87 · ARM64**  
 **Version Code: 4000087**
 
 | روش دریافت | لینک |
